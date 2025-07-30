@@ -1,3 +1,3 @@
 // Supabase配置
-const SUPABASE_URL = '你的Supabase项目URL';
-const SUPABASE_ANON_KEY = '你的Supabase匿名密钥';
+const SUPABASE_URL = 'https://xujmkwdenbsuyfgkdtgd.supabase.co';
+const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inh1am1rd2RlbmJzdXlmZ2tkdGdkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTM4NjEzMTEsImV4cCI6MjA2OTQzNzMxMX0.wxdUMOEUDieks9j_PM3K-I6MRWMzoZGLTpl8oznbUuY';
